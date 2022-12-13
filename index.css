@@ -1,0 +1,33 @@
+body {
+  background-image: url(images/2.jpg);
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+}
+
+h1 {
+  color: #ffdd03;
+  text-shadow: 1px 2px 20px #0a0a0a;
+  font-size: 100px;
+  text-shadow: 1px 1px 20px #0a0a0a;
+}
+
+#message-el {
+  font-style: italic;
+  font-size: 30px;
+  text-shadow: 0px 0px 20px #0a0a0a;
+}
+
+button {
+  display: flex;
+  margin: 10px auto;
+  color: #fbfcd4;
+  width: 150px;
+  background: linear-gradient(200deg, #0a0a0a, #ffdd03);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  justify-content: center;
+  border: none;
+  border-radius: 2px;
+}
